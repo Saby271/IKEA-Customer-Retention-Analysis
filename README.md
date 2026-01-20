@@ -1,5 +1,7 @@
 IKEA Customer Retention Analysis
+
 Project Overview
+
 This project focuses on analyzing customer behavior and retention for IKEA to identify key drivers of loyalty and churn. As a Data Analyst, I developed a comprehensive Power BI dashboard to visualize critical business KPIs, segment customers based on their lifetime value (CLV), and provide actionable insights into regional and store-type performance.
 
 Key Business Questions Addressed
